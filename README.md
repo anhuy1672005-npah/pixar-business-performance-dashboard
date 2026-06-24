@@ -26,6 +26,14 @@ Power BI, Power Query, DAX, Data Modeling
 
 The analysis suggests that Pixar’s financial performance depends heavily on global franchise success, international revenue, and careful budget control for non-franchise films.
 
+## Dashboard Preview
+
+![Financial Dashboard](./financial-dashboard.png)
+
+![Pixar Hall of Fame Dashboard](./hall-of-fame-dashboard.png)
+
+![Pixar DNA Dashboard](./pixar-dna-dashboard.png)
+
 ## Report
 
 [View the full report](./pixar-business-performance-report.pdf)
