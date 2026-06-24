@@ -28,11 +28,14 @@ The analysis suggests that Pixar’s financial performance depends heavily on gl
 
 ## Dashboard Preview
 
-![Financial Dashboard](./financial-dashboard.png)
+![Financial Dashboard]<img width="857" height="475" alt="financial-dashboard" src="https://github.com/user-attachments/assets/2f6f4d41-ddb5-47ca-b563-dec167a0a4b2" />
 
-![Pixar Hall of Fame Dashboard](./hall-of-fame-dashboard.png)
 
-![Pixar DNA Dashboard](./pixar-dna-dashboard.png)
+![Pixar Hall of Fame Dashboard]<img width="837" height="468" alt="hall-of-fame-dashboard" src="https://github.com/user-attachments/assets/9c80d11b-1439-4529-a741-6ff9aab758de" />
+
+
+![Pixar DNA Dashboard]<img width="811" height="454" alt="pixar-dna-dashboard" src="https://github.com/user-attachments/assets/314a3746-9133-4098-86d9-1866fcbea57f" />
+
 
 ## Report
 
