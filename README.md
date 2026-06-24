@@ -1,2 +1,1 @@
-# business-data-analyst-portfolio
-Portfolio for Business/Data Analyst Intern roles, featuring BI dashboarding, data modeling, KPI analysis, workflow automation, API integration, and business reporting.
+Power BI dashboard project analyzing Pixar films’ revenue, budget, ROI, profit, ratings, awards, and performance trends from 1995 to 2024.
